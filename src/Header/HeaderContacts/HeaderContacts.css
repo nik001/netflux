@@ -1,0 +1,76 @@
+.He-Contacts{
+       padding: 0 auto;
+       margin: 0 auto;
+       height: 4vw;
+       width: 90%; 
+       display: grid;
+       grid-template-columns: 10% auto 25% 10%;
+       border-bottom: 1px solid #000000;
+}
+
+
+.He-logo{
+}
+
+.He-logo  img{ 
+    margin-top: 0.7vw;
+    height: 3.0vw;
+}
+
+
+.He-menu{
+    margin-top: 1.5vw;
+    width: 90%;
+    text-align: center;  
+    display: grid;
+    grid-template-columns: 30% 40% 30%;
+    color: #000000;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    line-height: 17px;
+}
+
+.He-contact{
+    margin-top: 1.5vw;
+    font-size: 1.1vw;
+    display: grid;
+    grid-template-columns: 60%  2.5vw 2.5vw 6vw;
+}
+
+.He-contact-T{
+    width: 15vw;
+    display: grid;
+    grid-template-columns: 15% 80%;
+}
+
+.He-con-icon{
+    height: 1.5vw
+}
+
+.He-lk{height: 100%;}
+
+.lk{
+    background: #78A4C8;
+    border-radius: 4px;
+    width: 6vw;
+    padding-top: 0.35vw;
+
+    text-align: center;
+    margin-top: 1vw;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 17px;
+    color: #FFF;
+    
+    display: grid;
+    grid-template-columns: 4vw 1.5vw;
+}
+
+.re{
+    filter: opacity(50%);   
+-webkit-filter: invert(100%)
+}

@@ -1,0 +1,35 @@
+.section-m-free{
+    padding-top: 1.3vw;
+    margin: 0 auto;
+    padding: 0 auto;
+    width: 90%;
+    display: grid;
+    grid-template-columns: 50% 40% ;
+    
+}
+
+.section-m-free h2{
+    font-size: 1.5vw;
+    padding-bottom: 1vw;
+}
+
+.section-m-free div{
+    padding-bottom: 2vw;
+}
+
+.section-m-free div p{
+    font-size: 1vw;
+    padding-bottom: 1vw;
+}
+
+
+.button-m-free{
+  
+    border: 0.3vw solid #856FAB;
+    border-radius: 0.3vw;
+    padding: 0.5vw 2vw;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 1.5vw;
+    color: #000;
+}

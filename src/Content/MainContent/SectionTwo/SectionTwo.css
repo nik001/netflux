@@ -1,0 +1,26 @@
+.main-m-two{
+    background: #78A4C8;
+    height: 9vw;
+    color: #FFF;
+    padding-top: 1.3vw;
+}
+
+.section-m-two{
+    padding: 0 auto;
+    margin: 0 auto;
+    width: 90%;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    text-align: center;
+}
+
+.section-m-two div h2{
+    padding-bottom: 1vw;
+    font-size: 1.5vw;
+}
+
+
+.section-m-two div span{
+    padding-bottom: 1vw;
+    font-size: 1vw;
+}

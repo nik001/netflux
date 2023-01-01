@@ -1,0 +1,24 @@
+.addition-material-S{
+    width: 90%;
+    padding:  0 auto;
+    margin: 0 auto;
+    text-align: center;
+
+    font-style: normal;
+font-weight: 400;
+font-size: 0.8vw;
+line-height: 204%;
+}
+
+.addition-material-S h2{
+    padding-top: 2vw;
+    font-size: 1.5vw;
+    margin-bottom: 1vw;
+}
+
+
+.addition-material{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    text-align: center;
+}

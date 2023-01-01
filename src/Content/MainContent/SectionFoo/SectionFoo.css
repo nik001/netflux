@@ -1,0 +1,14 @@
+.section-team-m{
+    margin: 0 auto;
+    padding: 0 auto;
+    width: 90%;
+}
+
+
+
+
+.team-cart{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    text-align: center;
+}

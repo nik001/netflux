@@ -1,0 +1,27 @@
+.footer{
+    background: #333333;
+    color: #FFFFFF;
+    height: 8vw;
+}
+
+.footer-s{
+    padding: 0 auto;
+    margin: 0 auto;
+    width: 90%;
+    padding-top: 1vw;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+  
+    line-height: 5vw;
+    font-weight: 4vw;
+    font-size: 0.8vw;
+    line-height: 17px;
+}
+
+.footer-s ul li{
+    padding-top: 0.5vw;
+}
+
+.foter-logo{
+    height: 3vw;
+}
