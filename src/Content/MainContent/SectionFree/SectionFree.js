@@ -1,5 +1,6 @@
 import React from 'react';
 import './SectionFree.css'
+import foto from './foto.png';
 
 const SectionFree = () => {
     return (
@@ -29,8 +30,8 @@ const SectionFree = () => {
                    
                    
                 </div>
-                <div>
-                    <img src="" />
+                <div className='section-m-free-img'>
+                    <img src={foto}  alt="text"/>
                 </div>
 
             </div>

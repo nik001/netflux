@@ -4,32 +4,53 @@
     padding: 0 auto;
     width: 90%;
     display: grid;
-    grid-template-columns: 50% 40% ;
+    grid-template-columns: 60% 40% ;
     
 }
 
 .section-m-free h2{
-    font-size: 1.5vw;
+    font-size: 2.4vw;
+    line-height: 2.5vw;
     padding-bottom: 1vw;
 }
 
 .section-m-free div{
-    padding-bottom: 2vw;
+    padding-bottom: 3vw;
+    line-height: 1.9vw;
 }
 
 .section-m-free div p{
+    line-height: 1.7vw;
     font-size: 1vw;
     padding-bottom: 1vw;
 }
 
 
 .button-m-free{
-  
     border: 0.3vw solid #856FAB;
     border-radius: 0.3vw;
     padding: 0.5vw 2vw;
     font-family: 'Inter';
     font-style: normal;
-    font-size: 1.5vw;
+    font-size: 1.4vw;
+    line-height: 1.7vw;
     color: #000;
+}
+
+
+.section-m-free-img{  
+   
+    width: 100%;  
+  
+
+}
+
+.section-m-free-img img{ 
+    padding-top: 1vw;
+    padding-right: 1vw;  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 25vw;
+
 }

@@ -19,6 +19,19 @@ line-height: 204%;
 
 .addition-material{
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-columns: 30% 30% 30% ;
     text-align: center;
+    padding-bottom: 2vw;
+}
+
+.addition-material div img{
+    height: 17vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.addition-material div p{
+    font-size: 1vw;
+    line-height: 1.4vw;
 }

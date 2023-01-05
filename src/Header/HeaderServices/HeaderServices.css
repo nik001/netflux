@@ -13,8 +13,9 @@
 }
 
 .he-S a{
-   
+
+    
     font-size: 1.6vw;
-    font-family: "GothamPro";
-    font-weight: bold
+    line-height: 1.8vw;
+    color: black;
 }

@@ -1,5 +1,6 @@
 import React from 'react';
 import './SectionOneSlider.css'
+import foto from './foto.png';
 
 const SectionOneSlider = () => {
     return (
@@ -25,7 +26,7 @@ const SectionOneSlider = () => {
                    
                 </div>
                 <div className='Slider-s-images'>
-                    <img src='' alt='img' />
+                    <img src={foto} alt='img' />
                 </div>
 
             </div>

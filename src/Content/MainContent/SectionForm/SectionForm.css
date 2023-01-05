@@ -1,7 +1,7 @@
 .main-sectionForm{
     background: #78A4C8;
     color: #FFF;
-    height: 13vw;
+    height: 16vw;
 }
 
 .section-form{
@@ -19,8 +19,9 @@
 }
 
 .section-form div h2{
+    font-size: 2.2vw;
     margin: 1vw;
-    margin-bottom: 3vw;
+    margin-bottom: 2.5vw;
 }
 
 
@@ -34,4 +35,12 @@
     font-size: 1.5vw;
     color: #FFF;
    
+}
+
+
+.form-img img{
+    height: 15vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }

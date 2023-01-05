@@ -1,7 +1,12 @@
 .footer{
     background: #333333;
     color: #FFFFFF;
-    height: 8vw;
+    padding-bottom: 2vw;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(173, 171, 171); 
 }
 
 .footer-s{
@@ -14,8 +19,9 @@
   
     line-height: 5vw;
     font-weight: 4vw;
-    font-size: 0.8vw;
-    line-height: 17px;
+    font-size: 1vw;
+    line-height: 1.3vw;
+    line-height: 1.2vw;
 }
 
 .footer-s ul li{

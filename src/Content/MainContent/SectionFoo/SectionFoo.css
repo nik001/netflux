@@ -4,7 +4,23 @@
     width: 90%;
 }
 
+.section-team-m{
+    text-align: center;
+}
 
+.section-team-m h2{
+    font-size: 2.3vw;
+    line-height: 2.4vw;
+    padding-top: 1vw;
+    padding-bottom: 1.5vw;
+}
+
+.section-team-m div{
+    font-size: 1.1vw;
+    line-height: 2.4vw;
+    padding-top: 1vw;
+    padding-bottom: 1.5vw;
+}
 
 
 .team-cart{
@@ -12,3 +28,8 @@
     grid-template-columns: 25% 25% 25% 25%;
     text-align: center;
 }
+
+.team-cart div img{
+    height: 18vw;
+}
+

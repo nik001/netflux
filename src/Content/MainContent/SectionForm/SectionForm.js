@@ -1,5 +1,6 @@
 import React from 'react';
 import './SectionForm.css'
+import foto from './foto.png';
 
 const SectionForm = () => {
     return (
@@ -12,8 +13,8 @@ const SectionForm = () => {
                         <a href="#" class="button-m-form"> Запросить консультацию</a>
                    
                 </div>
-                <div>
-                    <img src='' />
+                <div className='form-img'>
+                    <img src={foto} />
                 </div>
 
             </div>

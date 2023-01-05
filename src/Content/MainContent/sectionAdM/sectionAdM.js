@@ -1,5 +1,6 @@
 import React from 'react';
 import './sectionAdM.css'
+import foto from './foto.png';
 
 const sectionAdM = () => {
     return (
@@ -16,13 +17,17 @@ const sectionAdM = () => {
 
                <div className='addition-material'>
                     <div>
-                        <img src='' alt='text' />
+                        <img src={foto} alt='text' />
+                        <p>Каталог услуг</p>
                     </div>
                     <div>
-                        <img src='' alt='text' />
+                        <img src={foto} alt='text' />
+                        <p>Презентационная страница </p>
                     </div>
                     <div>
-                        <img src=''  alt='text'/>
+                        <img src={foto}  alt='text'/>
+                        <p>Часто задаваемые вопросы клиентов ИТ аутсорсинга
+</p>
                     </div>
                </div>
 

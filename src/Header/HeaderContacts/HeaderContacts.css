@@ -1,11 +1,11 @@
 .He-Contacts{
        padding: 0 auto;
        margin: 0 auto;
-       height: 4vw;
+       height: 4.4vw;
        width: 90%; 
        display: grid;
        grid-template-columns: 10% auto 25% 10%;
-       border-bottom: 1px solid #000000;
+       border-bottom: 0.1vw solid #000000;
 }
 
 
@@ -29,7 +29,7 @@
     font-style: normal;
     font-weight: 400;
     font-size: 1vw;
-    line-height: 17px;
+    line-height: 1.4vw;
 }
 
 .He-contact{
@@ -49,11 +49,13 @@
     height: 1.5vw
 }
 
-.He-lk{height: 100%;}
+.He-lk{
+    height: 100%;
+}
 
 .lk{
     background: #78A4C8;
-    border-radius: 4px;
+    border-radius: 0.1vw;
     width: 6vw;
     padding-top: 0.35vw;
 
@@ -63,7 +65,7 @@
     font-style: normal;
     font-weight: 400;
     font-size: 1.2vw;
-    line-height: 17px;
+    line-height: 1.2vw;
     color: #FFF;
     
     display: grid;

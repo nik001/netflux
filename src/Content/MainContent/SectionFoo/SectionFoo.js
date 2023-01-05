@@ -1,5 +1,6 @@
 import React from 'react';
 import './SectionFoo.css'
+import foto from './foto.png';
 
 const SectionFoo = () => {
     return (
@@ -20,25 +21,25 @@ const SectionFoo = () => {
 
                 <div className='team-cart'>
                     <div>
-                        <img  src='' alt='photo'  />
+                        <img  src={foto} alt='photo'  />
                         <p>ФИО</p>
                         <p>ДОЛЖНОСТь</p>
                         <p>КОнтакты</p>
                     </div>
                     <div>
-                        <img  src='' alt='photo' />
+                        <img  src={foto} alt='photo'  />
                         <p>ФИО</p>
                         <p>ДОЛЖНОСТь</p>
                         <p>КОнтакты</p>
                     </div>
                     <div>
-                        <img  src='' alt='photo' />
+                        <img  src={foto} alt='photo'  />
                         <p>ФИО</p>
                         <p>ДОЛЖНОСТь</p>
                         <p>КОнтакты</p>
                     </div>
                     <div> 
-                        <img  src='' alt='photo' />
+                        <img  src={foto} alt='photo'  />
                         <p>ФИО</p>
                         <p>ДОЛЖНОСТь</p>
                         <p>КОнтакты</p></div>
