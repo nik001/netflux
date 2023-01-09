@@ -6,8 +6,18 @@ const SectionFooter = () => {
     return (
         <div className='footer'>
             <div className='footer-s'>
-                    <div> <img className='foter-logo' src={Logo} /></div>
-                    <div>мы в соцсетях:</div>
+                    <div> 
+                    <ul>
+                            <li><a href=''> <img className='foter-logo' src={Logo} /></a></li>
+                        </ul>
+                       
+                    </div>
+                    
+                    <div>
+                        <ul>
+                            <li>Мы в соцсетях:</li>
+                        </ul>
+                    </div>
                     <div>
                         <ul>
                             <li>Ссылки:</li>
@@ -24,7 +34,7 @@ const SectionFooter = () => {
                     </div>
                     <div>
                     <ul>
-                            <li>Контакты</li>
+                            <li>Контакты:</li>
                             <li><a href=''>Телефон: +7(906)118-05-05</a></li>
                             <li><a href=''>Эл. почта: info@net-flux.ru</a></li>
                             <li><a href=''>Адрес: РФ, Республика Татарстан, г. Набережные Челны, ул. Ш.Усманова, д.122</a></li>

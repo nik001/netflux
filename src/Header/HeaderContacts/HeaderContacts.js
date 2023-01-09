@@ -1,7 +1,7 @@
 import React from 'react';
 import './HeaderContacts.css'
 import Logo from './netflux_logo.png';
-import lk from './img/free-icon-linux-penguin-sketched-logo-outline-37129.png';
+import lk from './img/iconuser.png';
 
 
 import Telegram from './img/free-icon-telegram-739260.png';
@@ -13,7 +13,10 @@ const HeaderContacts = () => {
     return (
         <div className='He-Contacts'>
                 <div className='He-logo'>
-               <img src={Logo} />
+                  <a href=''> 
+                    <img src={Logo} /> 
+                  </a>
+              
                 </div> 
              
                 <div className='He-contact'>

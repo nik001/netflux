@@ -1,3 +1,7 @@
+.Main-m-free{
+    padding-top: 2vw;
+}
+
 .section-m-free{
     padding-top: 1.3vw;
     margin: 0 auto;
@@ -11,7 +15,7 @@
 .section-m-free h2{
     font-size: 2.4vw;
     line-height: 2.5vw;
-    padding-bottom: 1vw;
+    padding-bottom: 2vw;
 }
 
 .section-m-free div{

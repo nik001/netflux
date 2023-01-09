@@ -23,26 +23,26 @@ const SectionFoo = () => {
                     <div>
                         <img  src={foto} alt='photo'  />
                         <p>ФИО</p>
-                        <p>ДОЛЖНОСТь</p>
-                        <p>КОнтакты</p>
+                        <p>Должность</p>
+                        <p>Контакты</p>
                     </div>
                     <div>
                         <img  src={foto} alt='photo'  />
                         <p>ФИО</p>
-                        <p>ДОЛЖНОСТь</p>
-                        <p>КОнтакты</p>
+                        <p>Должность</p>
+                        <p>Контакты</p>
                     </div>
                     <div>
                         <img  src={foto} alt='photo'  />
                         <p>ФИО</p>
-                        <p>ДОЛЖНОСТь</p>
-                        <p>КОнтакты</p>
+                        <p>Должность</p>
+                        <p>Контакты</p>
                     </div>
                     <div> 
                         <img  src={foto} alt='photo'  />
                         <p>ФИО</p>
-                        <p>ДОЛЖНОСТь</p>
-                        <p>КОнтакты</p></div>
+                        <p>Должность</p>
+                        <p>Контакты</p></div>
                 </div>
 
             </div>
