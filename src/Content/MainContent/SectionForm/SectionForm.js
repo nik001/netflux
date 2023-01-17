@@ -8,7 +8,7 @@ const SectionForm = () => {
             <div className='section-form'>
 
                 <div>
-                        <h2>Команда NetFlux проанализирует вашу задачу и поможет вам в её решении</h2>
+                        <h2>СМЕЛО ОБРАЩАЙТЕСЬ К НАМ ЗА РЕШЕНИЕМ ЛЮБЫХ IT-ЗАДАЧ</h2>
 
                         <a href="#" class="button-m-form"> Запросить консультацию</a>
                    
