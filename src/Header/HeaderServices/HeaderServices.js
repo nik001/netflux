@@ -7,7 +7,7 @@ const HeaderServices = () => {
     <div className='He-services'>
         <div className='he-S'>
                 <div>
-                    <a href='#'>ИТ обслуживание</a>
+                    <a href='#'>IT-обслуживание</a>
                 </div>
                 <div>
                     <a href='#'>Разработка</a>   
