@@ -6,6 +6,8 @@
        display: grid;
        grid-template-columns: 10% auto 25% 10%;
        border-bottom: 0.1vw solid #000000;
+       font-family: 'Inter';
+       font-style: normal;
 }
 
 
@@ -25,8 +27,7 @@
     display: grid;
     grid-template-columns: 30% 40% 30%;
     color: #000000;
-    font-family: 'Inter';
-    font-style: normal;
+
     font-weight: 400;
     font-size: 1vw;
     line-height: 1.4vw;
@@ -61,10 +62,9 @@
 
     text-align: center;
     margin-top: 1vw;
-    font-family: 'Inter';
-    font-style: normal;
+ 
     font-weight: 400;
-    font-size: 1.2vw;
+    font-size: 1vw;
     line-height: 1.2vw;
     color: #FFF;
     

@@ -1,21 +1,24 @@
 .He-services{ 
+    margin-top: 0.5vw;
     width: 100%;
+    background: #77ADCB;
+    height: 5vw;
 }
 
 .he-S{
+    padding-top: 1.3vw;
     padding: 0 auto;
     margin: 0 auto; 
     width: 60%;
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
-    margin-top: 21px; 
+    vertical-align: middle;
     text-align: center;
 }
 
 .he-S a{
-
-    
+    display: inline-block;
     font-size: 1.6vw;
     line-height: 1.8vw;
-    color: black;
+    color: rgb(255, 255, 255);
 }
