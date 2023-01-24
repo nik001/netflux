@@ -9,7 +9,7 @@
     margin: 0 auto;
     width: 90%;
     display: grid;
-    grid-template-columns: auto 50% 35% auto;
+    grid-template-columns: 20px 50% 35% 20px;
     
     
 }
