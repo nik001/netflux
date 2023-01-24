@@ -8,23 +8,19 @@
     padding: 0 auto;
     margin: 0 auto;
     width: 90%;
- 
     display: grid;
-    grid-template-columns: 65% 35%;
+    grid-template-columns: auto 50% 35% auto;
     
     
 }
 
 .Slider-text{
-    font-family: 'Inter';
-    font-style: normal;
     font-size: 1.5vw;
 }
 
 .Slider-text-Title{
     margin-bottom: 4vw;
-    font-family: 'Inter';
-    font-style: normal; 
+
     font-size: 2.3vw;
    
 }
@@ -43,8 +39,6 @@
     background: #856FAB;
     border-radius: 4px;
     padding: 2vw 9vw;
-    font-family: 'Inter';
-    font-style: normal;
     font-size: 1.4vw;
     line-height: 2.5vw;
     color: #FFFFFF;
@@ -60,4 +54,43 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+
+.vec-right{
+  
+   
+    display: block;
+    margin-left: auto;
+    margin-right: 0; 
+ 
+}
+.vec-img{
+    padding-top: 15vw;
+ }
+
+.vec-left{
+    display: block;
+    margin-left: 0;
+    margin-right: auto ;
+}
+
+.slider-shag{
+    padding-top: 1vw;
+    width: 100%;
+    justify-content: center;
+    justify-items: center;
+
+}
+
+.vec-img-load{
+  padding-left: 0.5vw;
+  padding-right: 0.5vw;
+  
+}
+
+.shag-center{
+    padding: 0 auto;
+    margin: 0 auto;
+    width: 12vw;
 }

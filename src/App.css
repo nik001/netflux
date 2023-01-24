@@ -7,6 +7,10 @@ body{
   font-family: 'Inter';
   font-style: normal;
 }
+h1,h2,h3,h4,h5{
+  font-family: 'Times New Roman';
+  font-style: normal;
+}
 
 li{
   list-style-type: none; /* Убираем маркеры */
