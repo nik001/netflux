@@ -1,17 +1,24 @@
-
+import { Routes ,Route , Link } from 'react-router-dom';
+import React from 'react';
 
 import './App.css';
-import React from 'react';
-import Header from './Header/Header.js'
-import Content from './Content/Content';
+import  MainPage        from './pages/MainContent/MainContent';
+import  Bitrix24        from './pages/Bitrix24/Bitrix24';
+import  Development     from './pages/Development/Development';
+import  ItService       from './pages/itService/itService';
+import  Promotion       from './pages/Promotion/Promotion';
 
 
-const App = () => {
+
+function App() {
   return (
-    <diV>
-      <Header />
-      <Content />
-    </diV>
+        <Routes>
+          <Route path="/"             element={<MainPage    />} />
+          <Route path="/bitrix24"     element={<Bitrix24    />} />
+          <Route path="/development"  element={<Development />} />
+          <Route path="/itService"    element={<ItService   />} />
+          <Route path="/promotion"    element={<Promotion   />} />
+        </Routes>
   );
 }
 

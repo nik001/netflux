@@ -34,7 +34,7 @@ const SectionOneSlider = () => {
 
                    </div>
 
-                   <a href="#" class="button24"> Получить консультацию</a>
+                   <a href="http://net-flux.ru" class="button24"> Получить консультацию</a>
                    
                 </div>
                 <div className='Slider-s-images'>

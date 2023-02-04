@@ -24,7 +24,7 @@ const SectionFree = () => {
                        </p>
                    
                     </div>
-                    <a href="#" class="button-m-free"> Получить индивидуальный расчёт</a>
+                    <a href="http://net-flux.ru" class="button-m-free"> Получить индивидуальный расчёт</a>
                    
                    
                 </div>

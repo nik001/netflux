@@ -8,7 +8,7 @@ const SectionFooter = () => {
             <div className='footer-s'>
                     <div> 
                     <ul>
-                            <li><a href=''> <img className='foter-logo' src={Logo} /></a></li>
+                            <li><a href="http://net-flux.ru"> <img className='foter-logo' alt='logo-footer' src={Logo} /></a></li>
                         </ul>
                        
                     </div>
@@ -21,23 +21,23 @@ const SectionFooter = () => {
                     <div>
                         <ul>
                             <li>Ссылки:</li>
-                            <li><a href=''>Политика конфединциальности</a></li>
-                            <li><a href=''>Обратная связь</a></li>
+                            <li><a href="http://net-flux.ru">Политика конфединциальности</a></li>
+                            <li><a href="http://net-flux.ru">Обратная связь</a></li>
                         </ul>
                     </div>
                     <div>
                         <ul>
                             <li>Компания</li>
-                            <li><a href=''>Наши работы</a></li>
-                            <li><a href=''>База знаний</a></li>
+                            <li><a href="http://net-flux.ru">Наши работы</a></li>
+                            <li><a href="http://net-flux.ru">База знаний</a></li>
                         </ul>
                     </div>
                     <div>
                     <ul>
                             <li>Контакты:</li>
-                            <li><a href=''>Телефон: +7(906)118-05-05</a></li>
-                            <li><a href=''>Эл. почта: info@net-flux.ru</a></li>
-                            <li><a href=''>Адрес: РФ, Республика Татарстан, г. Набережные Челны, ул. Ш.Усманова, д.122</a></li>
+                            <li><a href="http://net-flux.ru">Телефон: +7(906)118-05-05</a></li>
+                            <li><a href="http://net-flux.ru">Эл. почта: info@net-flux.ru</a></li>
+                            <li><a href="http://net-flux.ru">Адрес: РФ, Республика Татарстан, г. Набережные Челны, ул. Ш.Усманова, д.122</a></li>
                         </ul>
                     </div>
             </div>

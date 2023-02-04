@@ -10,11 +10,11 @@ const SectionForm = () => {
                 <div>
                         <h2>СМЕЛО ОБРАЩАЙТЕСЬ К НАМ ЗА РЕШЕНИЕМ ЛЮБЫХ IT-ЗАДАЧ</h2>
 
-                        <a href="#" class="button-m-form"> Запросить консультацию</a>
+                        <a href="http://net-flux.ru" class="button-m-form"> Запросить консультацию</a>
                    
                 </div>
                 <div className='form-img'>
-                    <img src={foto} />
+                    <img src={foto} alt='text' />
                 </div>
 
             </div>

@@ -5,14 +5,14 @@
     text-align: center;
 
     font-style: normal;
-font-weight: 400;
-font-size: 0.8vw;
-line-height: 204%;
+    font-weight: 400;
+    font-size: 0.8vw;
+    line-height: 204%;
 }
 
 .addition-material-S h2{
-    padding-top: 2vw;
-    font-size: 1.5vw;
+    padding-top: 0.5vw;
+    font-size: 2.2vw;
     margin-bottom: 1vw;
 }
 .text-addition{

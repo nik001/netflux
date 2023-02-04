@@ -1,0 +1,79 @@
+.He-services{ 
+    margin-top: 0.5vw;
+    width: 100%;
+    background: #77ADCB;
+    height: 5vw;
+}
+
+.he-S{
+    height: 100%;
+    margin: 0 auto; 
+    width: 60%;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    vertical-align: middle;
+}
+
+
+.he-S li{
+    text-align: center;
+   
+}
+/* убираем отступы и поля, а также list-style для "ul", 
+ * и добавляем "position:relative" */
+.He-services ul {
+    list-style: none;
+    position: relative;
+}
+
+/* применяем inline-block позиционирование к элементам навигации */
+.He-services ul li:hover {
+ 
+}
+    
+
+/* стилизуем ссылки */
+.main-service {
+    padding-top: 1.4vw;
+    display: inline-block;
+    font-size: 1.6vw;
+    line-height: 1.8vw;
+    color: rgb(255, 255, 255);
+    
+}
+
+/* изменяем цвет фона при наведении курсора */
+.He-services a:hover {
+    color: blueviolet;
+ 
+}
+
+.he-S li ul li a{
+   
+   font-size: 1vw;
+   color: #FFF;
+}
+
+.He-services ul li {
+  height: 100%; 
+}
+
+.He-services ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;   
+}
+
+/* отображаем выпадающий список при наведении */
+.He-services ul li:hover > ul {
+    display:inherit;
+    font-size: 1,5vw;   
+}
+
+/* первый уровень выпадающего списка */
+.He-services ul ul li {
+    padding: 1vw;
+    min-width:12vw;
+    background: #77ADCB;
+   
+}

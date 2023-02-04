@@ -17,25 +17,25 @@ const SectionFoo = () => {
 
                 <div className='team-cart'>
                     <div>
-                        <img  src={foto} alt='photo'  />
+                        <img  src={foto} alt='1'  />
                         <p>ФИО</p>
                         <p>Должность</p>
                         <p>Контакты</p>
                     </div>
                     <div>
-                        <img  src={foto} alt='photo'  />
+                        <img  src={foto} alt='2'  />
                         <p>ФИО</p>
                         <p>Должность</p>
                         <p>Контакты</p>
                     </div>
                     <div>
-                        <img  src={foto} alt='photo'  />
+                        <img  src={foto} alt='3'  />
                         <p>ФИО</p>
                         <p>Должность</p>
                         <p>Контакты</p>
                     </div>
                     <div> 
-                        <img  src={foto} alt='photo'  />
+                        <img  src={foto} alt='4'  />
                         <p>ФИО</p>
                         <p>Должность</p>
                         <p>Контакты</p></div>

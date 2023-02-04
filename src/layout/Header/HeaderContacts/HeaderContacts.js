@@ -13,8 +13,8 @@ const HeaderContacts = () => {
     return (
         <div className='He-Contacts'>
                 <div className='He-logo'>
-                  <a href=''> 
-                    <img src={Logo} /> 
+                  <a href='/'> 
+                    <img src={Logo} alt='logo net-flux' /> 
                   </a>
               
                 </div> 
@@ -75,7 +75,7 @@ const HeaderContacts = () => {
                   <a href='' >
                     <div className='lk'>
                       <div>Войти</div>
-                      <div> <img  className='He-con-icon  re' src={lk}/> </div>
+                      <div> <img  alt='text' className='He-con-icon  re' src={lk}/> </div>
                     </div>
                   </a>
                 </div> 
