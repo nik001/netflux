@@ -1,6 +1,6 @@
 import React from 'react';
 import './HeaderContacts.css'
-import Logo from './netflux_logo.png';
+import Logo from './logoWh.png';
 import lk from './img/iconuser.png';
 
 
@@ -14,7 +14,7 @@ const HeaderContacts = () => {
         <div className='He-Contacts'>
                 <div className='He-logo'>
                   <a href='/'> 
-                    <img src={Logo} alt='logo net-flux' /> 
+                    <img src={Logo} alt='logo net-flux'  className='re1'/> 
                   </a>
               
                 </div> 
@@ -22,7 +22,7 @@ const HeaderContacts = () => {
                 <div className='He-contact'>
 
                     <div className='He-contact-W'>
-                        <div className='He-con-whatsapp' >
+                        <div className='He-con-whatsapp re' >
                            
                         </div>
                        
@@ -30,7 +30,7 @@ const HeaderContacts = () => {
                      <div className='He-contact-W'>
                         <div className='He-con-whatsapp' >
                           <a href=''> 
-                             <img className='He-con-icon' src={WhatsApp} />
+                             <img className='He-con-icon re' src={WhatsApp} />
                           </a>   
                         </div>
                        
@@ -39,7 +39,7 @@ const HeaderContacts = () => {
                     <div className='He-contact-tg'>
                         <div className='He-con-telegramm' >
                             <a href=''> 
-                                <img className='He-con-icon' src={Telegram} />
+                                <img className='He-con-icon re' src={Telegram} />
                             </a>
                         </div>
                       
@@ -49,7 +49,7 @@ const HeaderContacts = () => {
                   
                    <div className='He-contact-T'>
                         <div className='He-con-telephon' >
-                             <img className='He-con-icon' src={Telephon} />
+                             <img className='He-con-icon re' src={Telephon} />
                         </div>
                         <div> 
                              +7 (906) 118 05 05

@@ -1,7 +1,7 @@
 .He-services{ 
     margin-top: 0.5vw;
     width: 100%;
-    background: #77ADCB;
+    background: #000;
     height: 5vw;
 }
 
@@ -42,9 +42,11 @@
     
 }
 
+
 /* изменяем цвет фона при наведении курсора */
-.He-services a:hover {
-    color: blueviolet;
+.hov_a a:hover {
+    color: #6e51d8;
+    
  
 }
 
@@ -74,6 +76,6 @@
 .He-services ul ul li {
     padding: 1vw;
     min-width:12vw;
-    background: #77ADCB;
+    background: #3c3183;
    
 }

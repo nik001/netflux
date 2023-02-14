@@ -1,7 +1,11 @@
 .main-sectionForm{
-    background: #78A4C8;
+    background: #000;
     color: #FFF;
-    height: 16vw;
+    background:
+  
+    radial-gradient(at 50% 100%,#5C4DB7  0% , rgb(10, 1, 1)  40%) ;
+
+    background-repeat: no-repeat;
 }
 
 .section-form{
@@ -12,35 +16,44 @@
 
 
 .section-form{
-  
     display: grid;
-    grid-template-columns: 60% 40%;
-    
+    grid-template-columns: 60% 40%;   
 }
 
-.section-form div h2{
-    font-size: 2.2vw;
-    padding-top: 2vw;
-    margin-bottom: 2.5vw;
+
+
+.t h2{
+     
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2.8vw;
+    line-height: 104%;
+    margin-top: 10%;
+    margin-bottom: 10%;
 }
 
 
 .button-m-form{
-
-    border: 0.3vw solid #856FAB;
-    border-radius: 0.3vw;
-    padding: 0.5vw 2vw;
+    background: #FFFFFF;
+    line-height: normal;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 3vw;
+    padding: 1.1vw 3vw;
     font-family: 'Inter';
     font-style: normal;
     font-size: 1.5vw;
-    color: #FFF;
-   
+    color: #000;
+    
+    margin-top: 30%;
+    margin-bottom: 30%;
+    
 }
 
 
-.form-img img{
-    height: 15vw;
-    display: block;
+.form-img {
+
     margin-left: auto;
     margin-right: auto;
 }

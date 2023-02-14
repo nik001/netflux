@@ -2,6 +2,12 @@
     margin: 0 auto;
     padding: 0 auto;
     width: 90%;
+
+    background:
+  
+    radial-gradient(at 50% 0%,#5C4DB7  0% , rgb(10, 1, 1)  40%) ;
+
+    background-repeat: no-repeat;
 }
 
 .section-team-m{
@@ -11,7 +17,7 @@
 .section-team-m h2{
     font-size: 2.3vw;
     line-height: 2.4vw;
-    padding-top: 1vw;
+    padding-top: 3vw;
     padding-bottom: 1.5vw;
 }
 

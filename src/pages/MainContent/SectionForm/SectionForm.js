@@ -7,14 +7,14 @@ const SectionForm = () => {
         <div className='main-sectionForm'>
             <div className='section-form'>
 
-                <div>
-                        <h2>СМЕЛО ОБРАЩАЙТЕСЬ К НАМ ЗА РЕШЕНИЕМ ЛЮБЫХ IT-ЗАДАЧ</h2>
+                <div className='t'>
+                        <h2>Смело образайтесь к нам за решением любых IT-задач</h2>
 
-                        <a href="http://net-flux.ru" class="button-m-form"> Запросить консультацию</a>
+                      
                    
                 </div>
                 <div className='form-img'>
-                    <img src={foto} alt='text' />
+                <a href="http://net-flux.ru" class="button-m-form"> Запросить консультацию</a>
                 </div>
 
             </div>

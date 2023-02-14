@@ -1,17 +1,28 @@
 .Main-slider{
     width: 100%;
-    margin-top: 3vw;
-    margin-bottom: 2vw;
+    padding-top: 3vw;
+    padding-bottom: 4vw;
+    color: #FFFFFF;
+    background:
+   
+    radial-gradient(circle at  right, #5C4DB7 1% , rgb(10, 1, 1)  25%) bottom right,
+    radial-gradient(circle at  left,#5C4DB7  1% , rgb(10, 1, 1)  25%) bottom left;
+    background-size: 50% 100%;
+    background-repeat: no-repeat;
+
 }
 
 .Slider-S{
     padding: 0 auto;
     margin: 0 auto;
     width: 90%;
-    display: grid;
-    grid-template-columns: auto 50% 35% auto;
+  
+    text-align: center;
     
-    
+}
+
+.logo_slider{
+    height: 4vw;
 }
 
 .Slider-text{
@@ -19,78 +30,45 @@
 }
 
 .Slider-text-Title{
-    margin-bottom: 4vw;
-
-    font-size: 2.3vw;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 6vw;
+    font-size: 4vw;
+    line-height: 104%;
+    padding-top: 2vw;
+    padding-bottom: 4vw;
    
 }
 
 .Slider-text-op{
+    padding: 0 auto;
+    margin: 0 auto;
     margin-bottom: 6vw;
+    width: 50%;
 }
 
 .Slider-text-op p{
-    margin-bottom: 1.2vw;
-    font-size: 1.65vw;
+    font-family: 'Gilroy';
+    font-style: normal;
+    text-align: left;
+    font-weight: 6vw;
+    font-size: 1.5vw;
     line-height: 2vw;
 }
 
 .button24{
-    background: #856FAB;
-    border-radius: 4px;
-    padding: 2vw 9vw;
+    background: #5C4DB7;
+    border-radius: 60px;
+    padding: 2vw 6vw;
     font-size: 1.4vw;
     line-height: 2.5vw;
     color: #FFFFFF;
+    
 }
 
-.Slider-s-images{
-      width: 100%;
-      
-}
-
-.Slider-s-images img{
-    height: 33vw;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.button24:hover {
+    background: linear-gradient(45deg, #0037ff, #00adff);
+    transform: scale(0.3);
 }
 
 
-.vec-right{
-  
-   
-    display: block;
-    margin-left: auto;
-    margin-right: 0; 
- 
-}
-.vec-img{
-    padding-top: 15vw;
- }
-
-.vec-left{
-    display: block;
-    margin-left: 0;
-    margin-right: auto ;
-}
-
-.slider-shag{
-    padding-top: 1vw;
-    width: 100%;
-    justify-content: center;
-    justify-items: center;
-
-}
-
-.vec-img-load{
-  padding-left: 0.5vw;
-  padding-right: 0.5vw;
-  
-}
-
-.shag-center{
-    padding: 0 auto;
-    margin: 0 auto;
-    width: 12vw;
-}
