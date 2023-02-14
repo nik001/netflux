@@ -30,7 +30,8 @@ const HeaderServices = () => {
 			        </ul>
                 </li>
                 <li>
-                    <a href='/bitrix24'    className='main-service'   >Битрикс24</a>  
+                    <a href='/bitrix24'    className='main-service'   >Битрикс24</a> 
+                
                 </li>
         </ul>  
     </div>

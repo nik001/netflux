@@ -1,0 +1,70 @@
+.one_block{
+    width:100% ;
+   
+    text-align: center;
+}
+
+
+.one_block_h2{
+    padding-top: 4vw;
+    width:100% ;
+
+    text-align: center;
+
+    font-weight: 600;
+    font-size: 3vw;
+    line-height: 104%;
+}
+
+.One_block_descr{
+    padding: 0 auto;
+    margin: 0 auto;
+    width: 90%;
+    padding-top: 4vw;
+    text-align: center;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.4vw;
+    line-height: 31px;
+    padding-bottom: 4vw;
+}
+
+.One_block_descr p{
+    padding-top: 3vw;
+    font-size: 2vw;
+    line-height: 31px;
+}
+
+.b24bonus{
+    color:#5C4DB7;
+    
+}
+
+
+.b24{
+
+    background: #5C4DB7;
+    border-radius: 60px;
+    padding: 2vw 6vw;
+    font-size: 1.4vw;
+    line-height: 2.5vw;
+    color: #FFFFFF;
+    
+    
+}
+
+.buttom{
+    width: 100%;
+    padding-top: 2vw;
+    height: 7vw;
+    padding-bottom: 2vw;
+    text-align: center;
+    
+}
+
+.b24:hover {
+    background: linear-gradient(45deg, #0037ff, #00adff);
+    transform: scale(0.3);
+}
+

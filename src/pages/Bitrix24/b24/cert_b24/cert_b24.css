@@ -1,0 +1,22 @@
+.cert_b24{
+    padding-top: 3vw;
+    width:90% ;
+    display: grid;
+    grid-template-columns: 60% 30%;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 2vw;
+}
+
+.certificat img{
+    width: 550px;
+}
+
+.cert_descr{
+    font-size: 1vw;
+    text-align: left;
+}
+
+.cert_descr p{
+    padding-top: 20%;
+}

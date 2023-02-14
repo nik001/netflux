@@ -1,0 +1,43 @@
+.price_b24{
+    padding-top: 3vw;
+    width: 90%; 
+    text-align: center;
+    padding: 0 auto;
+    margin: 0 auto;
+    font-size: 1.5vw;
+}
+
+.price_24{
+    padding: 0 auto;
+    margin: 0 auto;
+    padding-top: 2vw;
+    width: 90%; 
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    justify-content: center;
+    text-align: center;
+    justify-items:center;
+    grid-gap: 10%;
+}
+
+.price_b24 h2{
+    padding-top: 1vw;
+    padding-bottom: 2vw;
+    font-size: 2vw;
+}
+
+.price_24 h3{
+    font-size: 1.5vw;
+}
+
+
+.price_24 div img{
+    height: 17vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+}
+
+

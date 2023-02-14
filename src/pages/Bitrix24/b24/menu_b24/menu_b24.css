@@ -1,0 +1,19 @@
+.menu_b24{
+    padding-top: 2vw;
+    width:100% ;
+    display: grid;
+    grid-template-columns:  10% 10% 10% 10% 10%;
+    text-align: center;
+    justify-content: center;
+    color: #FFF;
+}
+
+.menu_b24 div a{
+    font-size: 1vw;
+    color: #FFF;
+}
+
+.menu_b24 div a:hover{
+    font-size: 1vw;
+    color: #6b4eb9;
+}
