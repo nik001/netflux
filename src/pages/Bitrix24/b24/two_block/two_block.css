@@ -1,20 +1,21 @@
 .two_block{
-padding: 0 auto;
-margin: 0 auto;
+    padding: 0 auto;
+    margin: 0 auto;
     width: 90%; 
+    padding-top: 1.5vw;
     display: grid;
-    grid-template-columns: 20% 25% 20%;
+    grid-template-columns: 20% 20% 20%;
     justify-content: center;
     text-align: left;
     justify-items:center;
     grid-gap: 10%;
 }
 
-
-
 .two_block div h6{
     color: blueviolet;
-    font-size: 1vw;
+    font-size: 1.3vw;
+    padding-bottom: 0.5vw;
+    border-bottom: solid 1px #FFF;
 }
 
 .two_block div h3{
@@ -23,11 +24,15 @@ margin: 0 auto;
     font-size: 1.5vw;
 }
 
+.two_block div h4{
+    padding-top: 1vw;
+    color: #FFF;
+    font-size: 1.5vw;
+}
+
 .two_descr{
     padding-top: 2vw;
     font-size: 1vw;
-    font-weight: 500;
-
-    line-height: 30px;
+    line-height: 1.3vw;
     padding-bottom: 3vw;
 }

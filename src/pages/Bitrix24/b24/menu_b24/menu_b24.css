@@ -9,11 +9,10 @@
 }
 
 .menu_b24 div a{
-    font-size: 1vw;
+    font-size: 1.3vw;
     color: #FFF;
 }
 
 .menu_b24 div a:hover{
-    font-size: 1vw;
     color: #6b4eb9;
 }

@@ -3,7 +3,7 @@ import './one_block.css'
 
 const one_block = () => {
     return (
-        <div className='one_block'>
+        <div className='one_block '>
              <div className='one_block_h2'>
                <h2>Битрикс24 помогает бизнесу работать</h2> 
             </div>
@@ -20,7 +20,7 @@ const one_block = () => {
              </p>
              </div>
              <div className='buttom'>
-                 <a href="http://net-flux.ru" class="b24">
+                 <a href="http://net-flux.ru" class="one b24">
                  Получить консультацию
                  </a> 
              </div>

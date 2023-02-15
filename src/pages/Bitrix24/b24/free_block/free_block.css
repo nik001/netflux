@@ -1,10 +1,11 @@
 .free_b24{
+    padding-top: 2vw;
     font-size: 1vw;
     text-align: center;
 }
 
 .free_b24 h3{
-    padding-top: 2vw;
+    padding-top: 1vw;
     font-size: 2vw;
 }
 
@@ -16,22 +17,27 @@
     display: grid;
     grid-template-columns: 30% 30%;
     column-gap: 10%;
+    line-height: 1.3vw;
     text-align: left;
     justify-content: center;
-    padding-bottom: 1vw;
+    padding-bottom: 1.5vw;
 }
 
 .free_b24_1{
-   
-    border-bottom: thick double #5C4DB7;
+    border-bottom: solid #5C4DB7;
 }
 
 .free_b24_1 h4{
-    text-align: center;
+    text-align: left;
     color: #5C4DB7;
     font-size: 1.5vw;
     padding-top: 1.5vw;
-    padding-bottom: 1.5vw;
+    padding-bottom: 0.5vw;
+    border-bottom: solid #FFF;
+}
+
+.descrip{
+    padding-top: 1vw;
 }
 
 
@@ -39,6 +45,7 @@
     padding: 0 auto;
     margin: 0 auto;
     padding-top: 1vw;
+    line-height: 1.3vw;
     width:90% ;
     display: grid;
     grid-template-columns: 30% 30%;
@@ -49,9 +56,15 @@
 }
 
 .free_b24_2 h4{
-    text-align: center;
+    text-align: left;
     color: #5C4DB7;
     font-size: 1.5vw;
+    
     padding-top: 1vw;
-    padding-bottom: 1.5vw;
+    padding-bottom: 0.5vw;
+    border-bottom: solid #FFF;
 }
+
+
+
+

@@ -14,30 +14,30 @@ const SectionOneSlider = () => {
                 <div className='Slider-text'>
 
                 <a href='/'> 
-                    <img src={Logo} alt='logo net-flux'  className='logo_slider'/> 
+                    <img src={Logo} alt='logo net-flux'  className=' logo_slider'/> 
                   </a>
 
                    <h2 className='Slider-text-Title'>Наша надежная команда <p> IT-экспертов  </p>
                     </h2> 
                    <div className='Slider-text-op'> 
                         <p>
-                        Удовлетворяет потребность вашей организации
+                       - Комплексное обслуживание (компьютеры, серверы, сети, ПО, оргтехника, телефония, видеонаблюдение, 1С, CRM системы)
                         </p>
                         <p>
-                        Работает 24/7 – без выходных
+                       - Работает 24/7 – без выходных
                         </p>
                         <p>
-                        Действует в короткие сроки
+                       - Выездной, удаленный ИТ специалист в день обращения 
                         </p>
                         <p>
-                        Использует только проверенные it-решения
+                       - Использует только проверенные it-решения
 
                     </p>
 
 
                    </div>
 
-                   <a href="http://net-flux.ru" class="button24"> Получить консультацию</a>
+                   <a href="http://net-flux.ru" class=" one1 button24"> Получить консультацию</a>
                    
                 </div>
                 

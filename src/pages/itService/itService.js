@@ -1,13 +1,14 @@
 import React from 'react';
 
 import Header from '../../layout/Header/Header';
+import ServiceSlider from './serviceSlider/serviceSlider';
 import SectionFooter from '../../layout/SectionFooter/SectionFooter';
 
 const itService = () => {
     return (
         <div>
             <Header />
-            <div> Обслуживание пк</div>
+            <ServiceSlider />
             <SectionFooter />
         </div>
     );
