@@ -20,9 +20,9 @@ const one_block = () => {
              </p>
              </div>
              <div className='buttom'>
-               
-             <a href="http://net-flux.ru" class="b24"> Получить консультацию</a>
-                   
+                 <a href="http://net-flux.ru" class="b24">
+                 Получить консультацию
+                 </a> 
              </div>
         </div>
         

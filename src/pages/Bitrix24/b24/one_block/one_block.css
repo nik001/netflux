@@ -1,16 +1,14 @@
 .one_block{
     width:100% ;
-   
     text-align: center;
 }
 
 
 .one_block_h2{
-    padding-top: 4vw;
     width:100% ;
-
+    padding-top: 2vw;
+    padding-bottom: 1.5vw;
     text-align: center;
-
     font-weight: 600;
     font-size: 3vw;
     line-height: 104%;
@@ -20,47 +18,41 @@
     padding: 0 auto;
     margin: 0 auto;
     width: 90%;
-    padding-top: 4vw;
+   
     text-align: center;
     font-family: 'Gilroy';
     font-style: normal;
     font-weight: 600;
-    font-size: 1.4vw;
-    line-height: 31px;
-    padding-bottom: 4vw;
+
+   
 }
 
 .One_block_descr p{
-    padding-top: 3vw;
-    font-size: 2vw;
-    line-height: 31px;
+    font-size: 2.1vw;
+    font-weight: 600;
+    line-height: 50px;
+   padding-top: 1.4vw;
 }
 
 .b24bonus{
     color:#5C4DB7;
-    
 }
 
-
 .b24{
-
+  
     background: #5C4DB7;
     border-radius: 60px;
-    padding: 2vw 6vw;
+    padding: 1.5vw 5vw;
     font-size: 1.4vw;
     line-height: 2.5vw;
     color: #FFFFFF;
-    
-    
 }
 
 .buttom{
+    margin-top: 4vw;
     width: 100%;
-    padding-top: 2vw;
-    height: 7vw;
-    padding-bottom: 2vw;
-    text-align: center;
-    
+    height: 5vw;
+    margin-bottom: 2vw;
 }
 
 .b24:hover {
