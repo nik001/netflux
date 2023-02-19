@@ -8,7 +8,7 @@ const SectionFree = () => {
             <div className='section-m-free'>
 
                 <div className='mm-f-c'>
-                    <h2>Работая с нашими IT-экспертами, вы получите:</h2>
+                    <h2>Работая с нашими IT-экспертами, вы получаете:</h2>
                     <div className='mm-f-c-1'>
                        
                        <div> Бесперебойную и быструю работу оргтехники, компьютеров, сервера 24/7</div>

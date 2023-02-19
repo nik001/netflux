@@ -7,11 +7,15 @@
 .one_block_h2{
     width:100% ;
     padding-top: 2vw;
-    padding-bottom: 1.5vw;
+    padding-bottom: 0.5vw;
     text-align: center;
 
     font-size: 3vw;
 
+}
+
+.One_block_descr h5{
+    font-size: 2vw;
 }
 
 .One_block_descr{

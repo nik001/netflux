@@ -12,22 +12,43 @@ const price_b24 = () => {
 
                             <img  src={foto} alt='1'  />
 
-                            20 000р.
+                      
+                         <h3 className='price_'> 9 000р.</h3>   
+                                <div className='price_buttom'>
+                                        <a href="http://net-flux.ru" class="price_button">
+                                        Получить консультацию
+                                        </a> 
+                                </div>
                     </div>
                     <div>
                             <h3><p>Пакет</p> «Стандарт» </h3> 
                             <img  src={foto} alt='1'  />
-                            40 000р.
+                            <h3 className='price_'> 19 000р.</h3>   
+                                <div className='price_buttom'>
+                                        <a href="http://net-flux.ru" class="price_button">
+                                        Получить консультацию
+                                        </a> 
+                                </div>
                     </div>
                     <div>
                             <h3><p>Пакет</p> «Бизнес» </h3>
                             <img  src={foto} alt='1'  />
-                            60 000р.
+                            <h3 className='price_'> 59 000р.</h3>   
+                                <div className='price_buttom'>
+                                        <a href="http://net-flux.ru" class="price_button">
+                                        Получить консультацию
+                                        </a> 
+                                </div>
                     </div>
                     <div>
                             <h3><p>Пакет</p> «Индивидуальный» </h3>
                             <img  src={foto} alt='1'  />
-                            Индивидуально
+                            <h3 className='price_'> По согласованию с заказчиком</h3>   
+                                <div className='price_buttom'>
+                                        <a href="http://net-flux.ru" class="price_button">
+                                        Получить консультацию
+                                        </a> 
+                                </div>
                            
                     </div>
             </div>

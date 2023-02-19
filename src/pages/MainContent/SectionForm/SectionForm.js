@@ -8,7 +8,7 @@ const SectionForm = () => {
             <div className='section-form'>
 
                 <div className='t'>
-                        <h2>Смело образайтесь к нам за решением любых IT-задач</h2>
+                        <h2>Смело обращайтесь к нам за решением любых IT-задач</h2>
 
                       
                    

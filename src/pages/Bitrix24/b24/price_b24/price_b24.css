@@ -40,4 +40,33 @@
     padding-bottom: 1vw;
 }
 
+.price_{
+    height: 3vw;
+    padding: 1vw 1vw;
+}
+
+
+
+
+.price_button{
+  
+    background: #5C4DB7;
+    padding: 0.5vw 1.5vw;
+    border-radius: 60px;
+    font-size: 1.3vw;
+    color: #FFFFFF;
+}
+
+.price_button a{
+    padding-top: 2vw;
+}
+
+
+
+.price_button:hover {
+    background: linear-gradient(45deg, #0037ff, #00adff);
+    transform: scale(0.3);
+}
+
+
 
