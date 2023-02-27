@@ -37,6 +37,7 @@ const price_b24 = () => {
                                 <div className='price_buttom'>
                                         <a href="http://net-flux.ru" class="price_button">
                                         Получить консультацию
+                                        
                                         </a> 
                                 </div>
                     </div>
@@ -45,9 +46,9 @@ const price_b24 = () => {
                             <img  src={foto} alt='1'  />
                             <h3 className='price_'> По согласованию с заказчиком</h3>   
                                 <div className='price_buttom'>
-                                        <a href="http://net-flux.ru" class="price_button">
+                                        <a href="https://b24-ij1v7m.bitrix24.site/crm_form_fajvg/" class="price_button" >
                                         Получить консультацию
-                                        </a> 
+                                      </a> 
                                 </div>
                            
                     </div>

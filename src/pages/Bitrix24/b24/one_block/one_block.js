@@ -20,6 +20,8 @@ const one_block = () => {
                и консультацию по маркетингу в подарок!
              </p>
              </div>
+        
+
              <div className='buttom'>
                  <a href="http://net-flux.ru" class="one b24">
                  Получить консультацию

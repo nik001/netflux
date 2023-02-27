@@ -21,43 +21,7 @@ const HeaderContacts = () => {
              
                 <div className='He-contact'>
 
-                    <div className='He-contact-W'>
-                        <div className='He-con-whatsapp re' >
-                           
-                        </div>
-                       
-                    </div>          
-                     <div className='He-contact-W'>
-                        <div className='He-con-whatsapp' >
-                          <a href=''> 
-                             <img className='He-con-icon re' src={WhatsApp} />
-                          </a>   
-                        </div>
-                       
-                    </div>
-
-                    <div className='He-contact-tg'>
-                        <div className='He-con-telegramm' >
-                            <a href=''> 
-                                <img className='He-con-icon re' src={Telegram} />
-                            </a>
-                        </div>
-                      
-                    </div>
-                  
-                  
-                  
-                   <div className='He-contact-T'>
-                        <div className='He-con-telephon' >
-                             <img className='He-con-icon re' src={Telephon} />
-                        </div>
-                        <div> 
-                             +7 (906) 118 05 05
-                        </div>
-                    </div>
-
-                
-
+                   
 
 
                  

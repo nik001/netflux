@@ -1,0 +1,21 @@
+.RemoteMaintenance{
+    padding: 0 auto;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.RemoteMaintenance_h2{
+    padding-top: 1vw;
+    font-size: 1.5vw;
+}
+
+.RemoteMaintenance_descr{
+    padding-top: 2vw;
+    font-size: 1vw;
+    line-height: 1.3vw;
+    padding-bottom: 3vw;
+}
+
+.RemoteMaintenance_descr p{
+    padding: 0.7vw 0;
+}

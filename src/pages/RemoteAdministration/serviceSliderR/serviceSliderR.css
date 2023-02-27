@@ -1,0 +1,45 @@
+
+
+.serviceSliderR{
+    width:100% ;
+    text-align: center;
+}
+
+.serviceSliderR_h2{
+    width:100% ;
+    padding-top: 2vw;
+    padding-bottom: 1.5vw;
+    text-align: center;
+    font-size: 2vw;
+}
+
+.serviceSliderR_descr{
+    padding: 0 auto;
+    margin: 0 auto;
+    width: 90%; 
+    text-align: left;
+    font-family: 'Gilroy';
+    font-style: normal;
+    line-height: 1.8vw;
+    font-size: 1.2vw;
+}
+
+
+
+
+.b24{
+    background: #5C4DB7;
+    border-radius: 60px;
+    padding: 1.5vw 5vw;
+    font-size: 1.4vw;
+    line-height: 2.5vw;
+    color: #FFFFFF;
+}
+
+
+.b24:hover {
+    background: linear-gradient(45deg, #0037ff, #00adff);
+    transform: scale(0.3);
+}
+
+

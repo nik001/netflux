@@ -1,0 +1,21 @@
+.SubcriptionService{
+    padding: 0 auto;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.SubcriptionService_h2{
+    padding-top: 1vw;
+    font-size: 1.5vw;
+}
+
+.SubcriptionService_descr{
+    padding-top: 2vw;
+    font-size: 1vw;
+    line-height: 1.3vw;
+    padding-bottom: 3vw;
+}
+
+.SubcriptionService_descr p{
+    padding: 0.7vw 0;
+}

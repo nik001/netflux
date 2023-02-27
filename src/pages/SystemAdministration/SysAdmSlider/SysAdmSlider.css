@@ -1,11 +1,11 @@
 
 
-.serviceSlider{
+.SysAdmSlider{
     width:100% ;
     text-align: center;
 }
 
-.serviceSlider_h2{
+.SysAdmSlider_h2{
     width:100% ;
     padding-top: 2vw;
     padding-bottom: 1.5vw;
@@ -13,7 +13,7 @@
     font-size: 2vw;
 }
 
-.serviceSlider_descr{
+.SysAdmSlider_descr{
     padding: 0 auto;
     margin: 0 auto;
     width: 90%; 
@@ -41,6 +41,7 @@
     background: linear-gradient(45deg, #0037ff, #00adff);
     transform: scale(0.3);
 }
+
 
 
 

@@ -1,16 +1,16 @@
 .He-services{ 
-    margin-top: 0.5vw;
+    margin-top: 0.3vw;
     width: 100%;
     background: #000;
-    height: 5vw;
+   
 }
 
 .he-S{
     height: 100%;
     margin: 0 auto; 
-    width: 60%;
+    width: 90%;
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-columns:  auto auto auto auto auto;
     vertical-align: middle;
 }
 

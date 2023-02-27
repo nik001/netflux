@@ -24,7 +24,7 @@ const serviceSlider = () => {
               
                 </div>
                 <div className='buttom'>
-                    <a href="http://net-flux.ru" class="oneit b24">
+                    <a href="http://net-flux.ru" class="b24">
                     Получить консультацию / предложение
                     </a> 
                 </div>

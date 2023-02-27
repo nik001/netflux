@@ -1,5 +1,5 @@
 import React from 'react';
-import SectionFoo from './SectionFoo/SectionFoo';
+
 import SectionForm from './SectionForm/SectionForm';
 import SectionFree from './SectionFree/SectionFree';
 import SectionOneSlider from './SectionOneSlider/SectionOneSlider';
@@ -15,7 +15,7 @@ const MainContent = () => {
             <SectionOneSlider />
             <SectionTwo />
             <SectionFree />
-            <SectionFoo />
+          
             <SectionForm />
             <SectionAdM />
             <SectionFooter />
