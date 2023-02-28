@@ -2,7 +2,7 @@
     margin-top: 0.3vw;
     width: 100%;
     background: #000;
-   
+   padding-top: 20px;
 }
 
 .he-S{
@@ -17,7 +17,6 @@
 
 .he-S li{
     text-align: center;
-   
 }
 /* убираем отступы и поля, а также list-style для "ul", 
  * и добавляем "position:relative" */
@@ -30,14 +29,13 @@
 .He-services ul li:hover {
  
 }
-    
 
 /* стилизуем ссылки */
 .main-service {
     padding-top: 1.4vw;
-    display: inline-block;
-    font-size: 1.6vw;
-    line-height: 1.8vw;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
     color: rgb(255, 255, 255);
     
 }
@@ -46,30 +44,32 @@
 /* изменяем цвет фона при наведении курсора */
 .hov_a a:hover {
     color: #6e51d8;
-    
- 
 }
 
 .he-S li ul li a{
    
-   font-size: 1vw;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
    color: #FFF;
 }
 
 .He-services ul li {
   height: 100%; 
+  
 }
 
 .He-services ul ul {
     display: none;
     position: absolute;
     top: 100%;   
+    
 }
 
 /* отображаем выпадающий список при наведении */
 .He-services ul li:hover > ul {
     display:inherit;
-    font-size: 1,5vw;   
+
 }
 
 /* первый уровень выпадающего списка */

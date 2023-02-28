@@ -24,10 +24,8 @@
 
 .t h2{
      
-    font-family: 'Gilroy';
-    font-style: normal;
     font-weight: 600;
-    font-size: 2.8vw;
+    font-size: 50px;
     line-height: 104%;
     margin-top: 10%;
     margin-bottom: 10%;
@@ -40,14 +38,15 @@
     display: inline-block;
     vertical-align: middle;
     border-radius: 3vw;
-    padding: 1.1vw 3vw;
-    font-family: 'Inter';
-    font-style: normal;
-    font-size: 1.5vw;
+    padding: 22px 51px;
     color: #000;
     
     margin-top: 30%;
-    margin-bottom: 30%;
+   
+
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 31px;
     
 }
 

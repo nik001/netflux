@@ -1,11 +1,10 @@
 .Main-slider{
     width: 100%;
-    padding-top: 3vw;
-    padding-bottom: 4vw;
+   
     color: #FFFFFF;
     background:
-    radial-gradient(circle at  right, #5C4DB7 1% , rgb(10, 1, 1)  25%) bottom right,
-    radial-gradient(circle at  left,#5C4DB7  1% , rgb(10, 1, 1)  25%) bottom left;
+    radial-gradient(circle at  100% 65%, #5C4DB7 2% , rgb(10, 1, 1)  35%) bottom right,
+    radial-gradient(circle at 0 65%,#5C4DB7  2% , rgb(10, 1, 1)  35%) bottom left;
     background-size: 50% 100%;
     background-repeat: no-repeat;
 
@@ -21,45 +20,49 @@
 }
 
 .logo_slider{
-    height: 4vw;
+    padding-top: 103px;
+    height: 76px;
 }
 
 .Slider-text{
-    font-size: 1.5vw;
+
 }
 
 .Slider-text-Title{
-    font-family: 'Gilroy';
-    font-style: normal;
-    font-weight: 6vw;
-    font-size: 4vw;
+    padding-top: 65px;
+    font-weight: 600;
+    font-size: 70px;
     line-height: 104%;
-    padding-top: 1vw;
-    padding-bottom: 1.5vw;
    
 }
 
 .Slider-text-op{
     padding: 0 auto;
     margin: 0 auto;
-    margin-bottom: 5vw;
+   padding-top: 60px;
     width: 70%;
 }
 
-.Slider-text-op p{
-    font-family: 'Gilroy';
-    font-style: normal;
+.Slider-text-op ul li{
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 31px;
     text-align: left;
-    font-weight: 6vw;
-    font-size: 1.5vw;
-    line-height: 2vw;
-    padding-top: 0.3vw;
+    list-style-type: disc ;
+}
+
+.button24_d{
+    padding-top: 85px;
+    padding-bottom: 125px;
 }
 
 .button24{
+
+    padding: 25px 60px;
+
     background: #5C4DB7;
     border-radius: 60px;
-    padding: 2vw 6vw;
+    
     font-size: 1.4vw;
     line-height: 2.5vw;
     color: #FFFFFF;

@@ -1,9 +1,10 @@
 .main-m-two{
+    padding-top: 92px;
+    padding-bottom:116px ;
     background: #000;
-    height: 9vw;
+  
     color: #FFF;
-    padding-top: 3.5vw;
-    padding-bottom: 0.5vw;
+   
 }
 
 .section-m-two{
@@ -16,12 +17,18 @@
 }
 
 .section-m-two div h2{
-    padding-bottom: 1vw;
-    font-size: 1.5vw;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    padding-bottom: 10px;
 }
 
 
 .section-m-two div span{
-    padding-bottom: 1vw;
-    font-size: 1vw;
+ 
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    color: #ffffff94;
+
 }

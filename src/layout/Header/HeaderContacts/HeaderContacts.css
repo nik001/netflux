@@ -6,7 +6,7 @@
        width: 90%; 
        display: grid;
        grid-template-columns: 10% auto 25% 10%;
-       border-bottom: 0.1vw solid #FFF;
+     
        font-family: 'Inter';
        font-style: normal;
 }
@@ -47,9 +47,7 @@
     grid-template-columns: 15% 80%;
 }
 
-.He-con-icon{
-    height: 1.5vw
-}
+
 
 .He-lk{
     height: 100%;
@@ -57,7 +55,7 @@
 
 .lk{
     background: #5C4DB7;
-    border-radius: 0.1vw;
+    border-radius: 30vw;
     width: 6vw;
     padding-top: 0.35vw;
 
@@ -68,9 +66,7 @@
     font-size: 1vw;
     line-height: 1.2vw;
     color: #FFF;
-    
-    display: grid;
-    grid-template-columns: 4vw 1.5vw;
+
 }
 
 .re{

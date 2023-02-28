@@ -39,7 +39,7 @@ const HeaderContacts = () => {
                   <a href='' >
                     <div className='lk'>
                       <div>Войти</div>
-                      <div> <img  alt='text' className='He-con-icon  re' src={lk}/> </div>
+          
                     </div>
                   </a>
                 </div> 
